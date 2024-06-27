@@ -1,3 +1,4 @@
+CAR SALES DATA ANALYSIS PROJECT :
 Project Highlights:
 Sales Performance Dashboard: Visual representations of key sales metrics, including total sales, monthly trends, and year-over-year growth.
 
